@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Complete project report",
+    "description": "Finish writing the final report for the project",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2026-04-30",
+    "assigned_to": "John Doe"
+  },
+  {
+    "id": 2,
+    "title": "Team meeting",
+    "description": "Discuss project updates with the team",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2026-04-28",
+    "assigned_to": "Sarah Smith"
+  },
+  {
+    "id": 3,
+    "title": "Code review",
+    "description": "Review pull requests in repository",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2026-04-25",
+    "assigned_to": "Alex Johnson"
+  }
+]
